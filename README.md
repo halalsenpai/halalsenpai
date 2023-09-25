@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @halalsenpai
 -   based in Queens, NY
 - 👀 I’m interested in Tech & And making use of tech easier
-- 🌱 I’m currently learning nestjs
+- 🌱 I’m currently working in healthtech
 - 💞️ I’m looking to collaborate on solutions that look good
 - 📫 You can reach me at devchaghtai@gmail.com
 
