@@ -9,16 +9,18 @@
 
 🔧 Technologies & Tools
 
-	•	Languages: [Add your primary programming languages here]
-	•	Frameworks: [List the frameworks you’re proficient with]
-	•	Tools: [Mention any tools or software you frequently use]
+	•	Languages: JavaScript, TypeScript, Python
+	•	Frameworks/Libraries: React, Node.js, Next.js, Express
+	•	Databases: MongoDB, MySQL
+	•	Tools: Git, Docker, AWS, Jira, Figma
+	•	Platforms: Web, Mobile Development
+	•	Other: RESTful APIs, GraphQL, Agile Methodologies
 
 🌟 Projects
 
 	•	Propopp: A classified rentals app that simplifies the process of finding and listing rental properties.
 	•	NextGen EHR: Contributed to the development of NextGen Healthcare’s Electronic Health Record system, enhancing healthcare providers’ ability to manage patient information effectively.
 	•	Stealth Startup in OOH Industry: Currently working on a stealth startup focusing on innovations in the Out-Of-Home (OOH) advertising industry.
-
 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=halalsenpai&show_icons=true&theme=radical" alt="GitHub Stats" />
