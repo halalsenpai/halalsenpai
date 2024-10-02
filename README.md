@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @halalsenpai
--   based in Queens, NY
-- 👀 I’m interested in Tech & And making use of tech easier
-- 🌱 I’m currently working in healthtech
-- 💞️ I’m looking to collaborate on solutions that look good
-- 📫 You can reach me at devchaghtai@gmail.com
+👋 Hi there, I’m @halalsenpai
 
-<p align='center'><a href="https://app.daily.dev/DailyDevTips"><img  src="https://github.com/halalsenpai/halalsenpai/blob/main/devcard.svg" width="400" alt="halalsenpai's Dev Card"/></a></p>.
+	•	📍 Location: Queens, NY
+	•	👀 Interests: Technology, making tech more accessible and user-friendly
+	•	🌱 Current Role: Working in HealthTech
+	•	💞️ Looking to Collaborate On: Solutions that are both functional and aesthetically pleasing
+	•	🎨 Passionate About: Designing intuitive interfaces and seamless user experiences
+	•	📫 Contact: devchaghtai@gmail.com
+
+🔧 Technologies & Tools
+
+	•	Languages: [Add your primary programming languages here]
+	•	Frameworks: [List the frameworks you’re proficient with]
+	•	Tools: [Mention any tools or software you frequently use]
+
+🌟 Projects
+
+	•	Propopp: A classified rentals app that simplifies the process of finding and listing rental properties.
+	•	NextGen EHR: Contributed to the development of NextGen Healthcare’s Electronic Health Record system, enhancing healthcare providers’ ability to manage patient information effectively.
+	•	Stealth Startup in OOH Industry: Currently working on a stealth startup focusing on innovations in the Out-Of-Home (OOH) advertising industry.
+
+📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=halalsenpai&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+💬 Get in Touch
+
+	•	LinkedIn
+	•	Portfolio
+	•	Twitter
+
 
 <!---
 halalsenpai/halalsenpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
